@@ -1,0 +1,12 @@
+﻿backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.h5
+*.ckpt
+*.log
+.env
+.DS_Store
+*.sqlite3

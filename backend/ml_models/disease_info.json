@@ -1,0 +1,209 @@
+{
+  "Apple___Apple_scab": {
+    "description": "Apple scab is a fungal disease that affects apple trees, causing dark, scaly lesions on leaves and fruit.",
+    "symptoms": [
+      "Dark, scaly lesions on leaves",
+      "Brown spots on fruit",
+      "Premature leaf drop",
+      "Cracked fruit skin"
+    ],
+    "treatments": [
+      "Apply fungicide in early spring",
+      "Remove infected leaves and fruit",
+      "Improve air circulation around trees",
+      "Use resistant apple varieties"
+    ],
+    "prevention_tips": [
+      "Plant resistant varieties",
+      "Maintain good sanitation",
+      "Avoid overhead watering",
+      "Prune for better air circulation"
+    ]
+  },
+  "Apple___Black_rot": {
+    "description": "Black rot is a fungal disease that causes fruit rot and canker formation on apple trees.",
+    "symptoms": [
+      "Brown, circular spots on fruit",
+      "Black, sunken cankers on branches",
+      "Yellowing and wilting leaves",
+      "Fruit mummification"
+    ],
+    "treatments": [
+      "Remove infected fruit and branches",
+      "Apply copper-based fungicides",
+      "Improve drainage around trees",
+      "Prune to improve air circulation"
+    ],
+    "prevention_tips": [
+      "Remove fallen fruit promptly",
+      "Avoid wounding tree bark",
+      "Maintain proper tree spacing",
+      "Use disease-free planting stock"
+    ]
+  },
+  "Apple___healthy": {
+    "description": "This apple tree appears to be healthy with no visible signs of disease.",
+    "symptoms": [],
+    "treatments": [],
+    "prevention_tips": [
+      "Continue regular care and monitoring",
+      "Maintain proper nutrition and watering",
+      "Monitor for early signs of disease",
+      "Keep area clean and well-ventilated"
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "description": "Bacterial spot is a common disease affecting tomato plants, caused by Xanthomonas bacteria.",
+    "symptoms": [
+      "Small, dark spots on leaves",
+      "Yellowing around spots",
+      "Fruit cracking and spotting",
+      "Stunted plant growth"
+    ],
+    "treatments": [
+      "Apply copper-based bactericides",
+      "Remove infected plant parts",
+      "Improve drainage and air circulation",
+      "Use disease-free seeds"
+    ],
+    "prevention_tips": [
+      "Use disease-free seeds and transplants",
+      "Avoid overhead watering",
+      "Practice crop rotation",
+      "Maintain proper plant spacing"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "description": "Early blight is a fungal disease that affects tomato plants, causing leaf spots and fruit rot.",
+    "symptoms": [
+      "Brown spots with concentric rings on leaves",
+      "Yellowing and wilting of lower leaves",
+      "Fruit rot at the stem end",
+      "Defoliation starting from bottom"
+    ],
+    "treatments": [
+      "Apply fungicides containing chlorothalonil",
+      "Remove infected leaves and fruit",
+      "Improve air circulation",
+      "Use mulch to prevent soil splash"
+    ],
+    "prevention_tips": [
+      "Use resistant tomato varieties",
+      "Avoid overhead watering",
+      "Practice crop rotation",
+      "Maintain proper plant spacing"
+    ]
+  },
+  "Tomato___healthy": {
+    "description": "This tomato plant appears to be healthy with no visible signs of disease.",
+    "symptoms": [],
+    "treatments": [],
+    "prevention_tips": [
+      "Continue regular care and monitoring",
+      "Maintain proper nutrition and watering",
+      "Monitor for early signs of disease",
+      "Keep area clean and well-ventilated"
+    ]
+  },
+  "Corn___Common_rust": {
+    "description": "Common rust is a fungal disease that affects corn plants, causing orange pustules on leaves.",
+    "symptoms": [
+      "Orange to brown pustules on leaves",
+      "Yellowing of affected areas",
+      "Reduced photosynthesis",
+      "Stunted plant growth"
+    ],
+    "treatments": [
+      "Apply fungicides containing azoxystrobin",
+      "Remove infected plant debris",
+      "Improve air circulation",
+      "Use resistant corn varieties"
+    ],
+    "prevention_tips": [
+      "Plant resistant corn varieties",
+      "Practice crop rotation",
+      "Avoid overhead irrigation",
+      "Maintain proper plant spacing"
+    ]
+  },
+  "Corn___healthy": {
+    "description": "This corn plant appears to be healthy with no visible signs of disease.",
+    "symptoms": [],
+    "treatments": [],
+    "prevention_tips": [
+      "Continue regular care and monitoring",
+      "Maintain proper nutrition and watering",
+      "Monitor for early signs of disease",
+      "Keep area clean and well-ventilated"
+    ]
+  },
+  "Grape___Black_rot": {
+    "description": "Black rot is a fungal disease that affects grapevines, causing fruit rot and leaf spots.",
+    "symptoms": [
+      "Brown spots on leaves with black borders",
+      "Black, shriveled fruit",
+      "Cane cankers",
+      "Premature defoliation"
+    ],
+    "treatments": [
+      "Apply fungicides containing captan",
+      "Remove infected fruit and canes",
+      "Improve air circulation",
+      "Prune to open canopy"
+    ],
+    "prevention_tips": [
+      "Use resistant grape varieties",
+      "Practice good sanitation",
+      "Avoid overhead watering",
+      "Maintain proper vine spacing"
+    ]
+  },
+  "Grape___healthy": {
+    "description": "This grapevine appears to be healthy with no visible signs of disease.",
+    "symptoms": [],
+    "treatments": [],
+    "prevention_tips": [
+      "Continue regular care and monitoring",
+      "Maintain proper nutrition and watering",
+      "Monitor for early signs of disease",
+      "Keep area clean and well-ventilated"
+    ]
+  },
+  "Potato___Early_blight": {
+    "description": "Early blight is a fungal disease that affects potato plants, causing leaf spots and tuber rot.",
+    "symptoms": [
+      "Brown spots with concentric rings on leaves",
+      "Yellowing and wilting of lower leaves",
+      "Tuber rot and lesions",
+      "Premature plant death"
+    ],
+    "treatments": [
+      "Apply fungicides containing chlorothalonil",
+      "Remove infected plant debris",
+      "Improve air circulation",
+      "Use disease-free seed potatoes"
+    ],
+    "prevention_tips": [
+      "Use certified disease-free seed potatoes",
+      "Practice crop rotation",
+      "Avoid overhead watering",
+      "Maintain proper plant spacing"
+    ]
+  },
+  "Potato___healthy": {
+    "description": "This potato plant appears to be healthy with no visible signs of disease.",
+    "symptoms": [],
+    "treatments": [],
+    "prevention_tips": [
+      "Continue regular care and monitoring",
+      "Maintain proper nutrition and watering",
+      "Monitor for early signs of disease",
+      "Keep area clean and well-ventilated"
+    ]
+  }
+}
+
+
+
+
+
